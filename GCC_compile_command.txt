@@ -1,0 +1,1 @@
+gcc -o fifo_test cmd_fifo.c cmd_fifo_test.c
